@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DenisRendon/01---Learning-Markdown/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 01 - Learning Markdown
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DenisRendon/01---Learning-Markdown/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Markdown does not seem to complicated compared to other languages. You have the ability to quickly create readmes. It reminds me of NotePad, it doesnt have everything but it has enough editing tools to create what you need quickly.
+2. From a quick read and glance over a cheat sheet I like the ability to quickly create some **formating** options.
+3. One thing I have been looking for is to see if they have a highlighting option but underline works
+4. Overall it has alot of basic options that you can take 20mins and youll feel confident in it
